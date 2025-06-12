@@ -1,0 +1,8 @@
+streamlit==1.45.1
+python-dotenv
+google-generativeai
+pandas==2.3.0
+matplotlib
+pydub
+SpeechRecognition
+audiorecorder
